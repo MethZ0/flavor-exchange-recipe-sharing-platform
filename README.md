@@ -4,7 +4,7 @@ A sleek and modern recipe-sharing platform where users can browse, share, and di
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1234abcd-1234-abcd-1234-1234abcd1234/deploy-status)](https://flavor-exchange.netlify.app)
 
-## 🌐 [Live Demo](https://flavor-exchange.netlify.app)
+## 🌐 [Live Demo](https://flavor-exchange-methush.netlify.app)
 
 Check out the live version of Flavor Exchange, deployed on Netlify!
 
