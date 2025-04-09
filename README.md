@@ -1,5 +1,3 @@
-Sure Methush! Here's your cleaned-up `README.md` with the **folder structure**, **Yarn parts**, **Usage**, and **Contributing** sections removed:
-
 ```markdown
 # 🍲 Flavor Exchange
 
