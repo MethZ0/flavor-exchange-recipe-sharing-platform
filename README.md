@@ -1,7 +1,3 @@
-Here’s a sample `README.md` for your **Flavor Exchange** recipe-sharing frontend project based on the provided folder structure and tech stack:
-
----
-
 ```markdown
 # 🍲 Flavor Exchange - Recipe Sharing Frontend
 
