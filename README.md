@@ -1,13 +1,12 @@
-Here’s a sample `README.md` for your **Flavor Exchange** recipe-sharing frontend project based on the provided folder structure and tech stack:
+# 🍲 Flavor Exchange
 
----
+A sleek and modern recipe-sharing platform where users can browse, share, and discover new recipes. This is the frontend of the application, built using React, powered by Vite, and styled with Tailwind CSS.
 
-```markdown
-# 🍲 Flavor Exchange - Recipe Sharing Frontend
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1234abcd-1234-abcd-1234-1234abcd1234/deploy-status)](https://flavor-exchange.netlify.app)
 
-**Flavor Exchange** is a sleek and modern recipe-sharing platform where users can browse, share, and discover new recipes. This is the **frontend** of the application, built using **React**, powered by **Vite**, and styled with **Tailwind CSS**. We use **Context API** for state management and **Material UI** for icons.
+## 🌐 [Live Demo](https://flavor-exchange.netlify.app)
 
----
+Check out the live version of Flavor Exchange, deployed on Netlify!
 
 ## 🚀 Tech Stack
 
@@ -17,33 +16,6 @@ Here’s a sample `README.md` for your **Flavor Exchange** recipe-sharing fronte
 - 🧩 Material UI Icons
 - ✨ JavaScript
 
----
-
-## 🛠️ Getting Started
-
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/MethZ0/flavor-exchange-recipe-sharing-platform.git
-cd flavor-exchange
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Run the development server
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) to see the app in action.
-
----
-
 ## 🌐 Features
 
 - 🧑‍🍳 Share and discover recipes
@@ -52,14 +24,60 @@ Open [http://localhost:5173](http://localhost:5173) to see the app in action.
 - 🧠 Global state using Context API
 - 💅 Beautiful and responsive UI with Tailwind CSS
 
----
+## 🛠️ Getting Started
 
-## 🧾 Scripts
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/MethZ0/flavor-exchange-recipe-sharing-platform.git
+   cd flavor-exchange
+   ```
+
+2. Install dependencies
+   ```bash
+   npm install
+   # or
+   yarn
+   ```
+
+3. Run the development server
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
+
+4. Open [http://localhost:5173](http://localhost:5173) to see the app in action.
+
+## 🧾 Available Scripts
 
 ```bash
-npm run dev       # Start development server
-npm run build     # Build for production
-npm run preview   # Preview production build
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
 ```
 
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 📬 Contact
+
+GitHub: [@MethZ0](https://github.com/MethZ0)
+
+Project Link: [https://github.com/MethZ0/flavor-exchange-recipe-sharing-platform](https://github.com/MethZ0/flavor-exchange-recipe-sharing-platform)
+
 ---
+
+Made with ❤️ by MethZ0
