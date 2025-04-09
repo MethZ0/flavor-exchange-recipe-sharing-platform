@@ -76,7 +76,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 GitHub: [@MethZ0](https://github.com/MethZ0)
 
 Project Link: [https://github.com/MethZ0/flavor-exchange-recipe-sharing-platform](https://github.com/MethZ0/flavor-exchange-recipe-sharing-platform)
-
----
-
-Made with ❤️ by MethZ0
