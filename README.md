@@ -3,8 +3,6 @@
 
 **Flavor Exchange** is a sleek and modern recipe-sharing platform where users can browse, share, and discover new recipes. This is the **frontend** of the application, built using **React**, powered by **Vite**, and styled with **Tailwind CSS**. We use **Context API** for state management and **Material UI** for icons.
 
----
-
 ## 🚀 Tech Stack
 
 - ⚛️ React (with Vite)
@@ -12,8 +10,6 @@
 - 🧠 Context API (for global state management)
 - 🧩 Material UI Icons
 - ✨ JavaScript
-
----
 
 ## 🛠️ Getting Started
 
